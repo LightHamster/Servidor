@@ -1,0 +1,27 @@
+p{
+    color: blue;
+    font-size: 10px;
+}
+
+#parrafo-inicial{
+    color: red;
+    font-size: 16px;
+    margin-bottom: 200px;
+    border: 5px solid;
+    padding-bottom: 80px;
+}
+
+#titulo{
+    text-align: center;
+}
+
+.primer-elemento{
+    border: 5px solid;
+}
+
+img[src]{
+    border: 1px solid;
+    height: 300px;
+    width: 300px;
+    margin-bottom: 200px;
+}
